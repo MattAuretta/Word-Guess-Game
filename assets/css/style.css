@@ -22,3 +22,19 @@ h1 {
 .game {
     margin-bottom: 1em;
 }
+
+#win-image {
+    padding-top: 10%;
+    padding-bottom: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: auto;
+    width: 350px;
+}
+
+#win-text {
+    color: black;
+    font-family: 'Great Vibes', cursive;
+    font-size: 3em;
+    margin-top: 0.5em;
+}
